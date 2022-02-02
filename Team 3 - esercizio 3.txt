@@ -1,0 +1,63 @@
+Scegliere cosa guardare su Netflix
+Che barba, che noia, che noia, che barba!
+Perché ci si mette sempre un’ora a scegliere cosa guardare la sera? Certo è difficile mettere d’accordo i gusti di tutti, poi dipende anche in base al tempo (o al sonno) che abbiamo. Delle volte si pensa di vedere quel bel film che ci hanno consigliato, mentre altre volte si viene risucchiati da quella serie tv che ci tiene incollati allo schermo. Che senso di vuoto quando poi finisce! 
+
+
+
+start 
+
+SE ho qualcosa da fare 
+    - non guardo Netflix
+ALTRIMENTI se non ho niente da fare
+    - mi siedo sul divano
+    - cerco il telecomando
+        - cerco nel salotto
+        - guardo sul divano
+            - sposto i cuscini
+            - guardo tra le fessure del divano  
+    - SE lo trovo
+        - accendo la tv
+        - apro Netflix
+        - scelgo il  mio profilo
+        - scelgo cosa guardare
+        - SE ho voglia di un film 
+            - scelgo un film
+            - SE me lo hanno consigliato
+                - scelgo il film consigliato
+            ALTRIMENTI 
+                - sfoglio il catalogo
+                - trovo un film che mi piace
+                    - clicco play e mi rilasso
+                
+         - ALTRIMENTI se ho voglia di serie 
+             - scelgo una serie tv 
+             - SE ho una serie da proseguire
+                    - la proseguo
+             - ALTRIMENTI
+                - SE ho una serie consigliata
+                    - la cerco
+                    - leggo la trama
+                    - SE mi piace la trama
+                        - lo avvio
+                    - ALTRIMENTI
+                            - passo alla riga 45
+                ALTRIMENTI se non ho una serie consigliata
+                    - cerco nel catalogo
+                    -leggo le trame
+                    - SE ne trova una 
+                        - la avvio
+                    ALTRIMENTI
+                        - ripeto riga 45
+                        - SE non trovo niente
+                            - vado alla riga 58
+                        ALTRIMENTI
+                            - guardo quello che ho trovato           
+    ALTRIMENTI
+        - ripeto la ricerca
+        - SE non trovo il telecomando
+            - gioco alla play
+
+
+
+
+
